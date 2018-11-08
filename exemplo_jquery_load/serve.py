@@ -12,6 +12,7 @@ def hello():
 
 @get('/ajax/p')
 def ajax_p():
+    print("rodei um comando no servidor")
     return "<p>Valor substituido</p>"
 
 

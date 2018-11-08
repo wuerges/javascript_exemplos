@@ -16,12 +16,7 @@
         console.log("changed value of #ap");
       }
     );
-    // Your code here.
-
-});
-
-// Your code goes here.
-
+  });
   </script>
    <button id="b1">Carrega p</button>
     <p id="ap"> Valor original </p>
